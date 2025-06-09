@@ -24,7 +24,7 @@ The OLIST dataset captures a snapshot of e-commerce activities from late 2016 to
 
 Database Diagram:
 
-<img src="https://github.com/ShuaneTelford/OLIST-ecommerce-analysis/blob/main/Repo%20Images/Database%20Diagram.png" alt="" width="720"/>
+<img src="https://github.com/ShuaneTelford/OLIST-ecommerce-data-analysis/blob/main/Repo%20Images/Database%20Diagram.png" alt="" width="720"/>
 
 ## Tools Used
 - SQL Server Management Studio (SSMS)
@@ -102,14 +102,14 @@ Database Diagram:
 </details>
 
 ## Final Dashboard
-![](https://github.com/ShuaneTelford/OLIST-ecommerce-analysis/blob/main/Repo%20Images/Dashboard.gif)
+![](https://github.com/ShuaneTelford/OLIST-ecommerce-data-analysis/blob/main/Repo%20Images/Dashboard.gif)
 
 Page 1:
 
-<img src="https://github.com/ShuaneTelford/OLIST-ecommerce-analysis/blob/main/Repo%20Images/Dashboard%20page%201.jpg" />
+<img src="https://github.com/ShuaneTelford/OLIST-ecommerce-data-analysis/blob/main/Repo%20Images/Dashboard%20page%201.jpg" />
 
 Page 2:
-<img src="https://github.com/ShuaneTelford/OLIST-ecommerce-analysis/blob/main/Repo%20Images/Dashboard%20page%202.jpg" />
+<img src="https://github.com/ShuaneTelford/OLIST-ecommerce-data-analysis/blob/main/Repo%20Images/Dashboard%20page%202.jpg" />
 
 ## Conclusion
 
